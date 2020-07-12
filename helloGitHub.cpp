@@ -3,7 +3,8 @@
 int main()
 {
     std::cout << "Hello GitHub!" << std::endl;
-    std::cout << "This update is from my Ubuntu desktop" << std::endl;
+    std::cout << "This update is from my Ubuntu desktop..." << std::endl;
+    std::cout << "... and this is from my Windows laptop." << std::endl;
 
     return 0;
 }
