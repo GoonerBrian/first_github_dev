@@ -7,6 +7,8 @@ int main()
     std::cout << "... and this is from my Windows laptop." << std::endl;
     std::cout << "This is the final cout used to check linting." << std::endl;
 
+    std::cout << "Testing after reinstalling OS" << std::endl;
+
     return 0;
 }
 
